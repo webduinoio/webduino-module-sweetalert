@@ -1,0 +1,7 @@
+{
+  "types": ["sweetalert"],
+  "category": "catPlus",
+  "dependencies": [
+    "wa-sweetalert.html"
+  ]
+}
