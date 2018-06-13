@@ -10,4 +10,4 @@ git clone https://github.com/webduinoio/webduino-module-sweetalert.git
 
 ## License
 
-This project is licensed under the MIT license, see LICENSE for more information.
+This project is licensed under the MIT license, see [LICENSE](LICENSE) for more information.
