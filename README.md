@@ -1,6 +1,6 @@
-# webduino-module-pm25
+# webduino-module-sweetalert
 
-Webduino Module for G3 sensor.
+Webduino Module for [SweetAlert](https://sweetalert.js.org/guides/).
 
 ## Installation
 
